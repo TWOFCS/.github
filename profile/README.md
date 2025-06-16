@@ -8,7 +8,8 @@ the Technical Workshop on Fuel Cycle Simulation, that brings together the
 community for deep discussion of nuclear fuel cycle modeling tools and 
 capabilities, specific national and international fuel cycle scenarios, and 
 interactions of these tools and scenarios with broader socioeconomics of 
-the energy system.
+the energy system.  The [most recent workshop, TWOFCS2025, was held June 11-13, 2025, 
+in Chicago, IL, USA](https://github.com/TWOFCS/TWOFCS-2025).
 
 Repositories in this organization are imagined for the following purposes:
 * materials from individual TWOFCS workshops
@@ -19,4 +20,4 @@ Repositories in this organization are imagined for the following purposes:
     * transmutation data
     * individual facility configurations
 
-    
+
