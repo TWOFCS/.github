@@ -15,7 +15,7 @@ Repositories in this organization are imagined for the following purposes:
 * materials from individual TWOFCS workshops
 * database of fuel cycle scenario specifications
 * database for fundamental inputs to fuel cycle simulations including
-  (but not limited to)
+  (but not limited to):
     * costs
     * transmutation data
     * individual facility configurations
