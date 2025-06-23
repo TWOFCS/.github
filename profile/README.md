@@ -13,6 +13,7 @@ in Chicago, IL, USA](https://github.com/TWOFCS/TWOFCS-2025).
 
 Repositories in this organization are imagined for the following purposes:
 * materials from individual TWOFCS workshops
+* [list of software and related tools for nuclear fuel cycle simulation](https://github.com/TWOFCS/list_of_tools)
 * database of fuel cycle scenario specifications
 * database for fundamental inputs to fuel cycle simulations including
   (but not limited to):
